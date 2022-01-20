@@ -1,0 +1,4 @@
+A B C D   #SHIFT#A p q p ¡ #SHIFT#p ¤ #ALTp P L P p P p P p P p P p P p P p P p P p P p P p P p P p P p P p P p P p P p P p P p P p P p p p p K º º ¾ $ ! " # #RIGHT_ARROW_KEY
+#RIGHT_ARROW_KEY#RIGHT_ARROW_KEY#DOWN_ARROW_KEY#DOWN_ARROW_KEY#LEFT_ARROW_KEY
+
+#CONTROLS ¢ 
